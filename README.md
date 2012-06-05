@@ -7,7 +7,7 @@ An Underscore.js DocSet for use with [Dash](http://kapeli.com/dash/)
 
 Open Dash > Preferences > Docsets > Download Docsets; Click **+** and paste the following url:
 
-    https://raw.github.com/chetan/underscorejs_docset/master/UnderscoreJS.xml
+    https://raw.github.com/chetan/underscore_docset/master/UnderscoreJS.xml
 
 Then click *download* next to the new item at the bottom of the list.
 
