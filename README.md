@@ -1,3 +1,6 @@
+NOTE: This Underscore.js is now part of Dash!
+---
+
 # Underscore.js DocSet
 
 An Underscore.js DocSet for use with [Dash](http://kapeli.com/dash/)
