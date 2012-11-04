@@ -1,4 +1,4 @@
-NOTE: This Underscore.js is now part of Dash!
+NOTE: This Underscore.js DocSet is now part of Dash!
 ---
 
 # Underscore.js DocSet
